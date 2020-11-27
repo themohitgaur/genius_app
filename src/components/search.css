@@ -7,6 +7,7 @@
     align-items: center;
     background-color:white;
     flex-wrap: wrap;
+    min-height: 500px;
 }
 #searchform input {
     
@@ -58,6 +59,7 @@ width: 100%;
     justify-content: space-between;
     align-items: center;
     background-color:white;
+        min-height: 300px;
     
     }
 }
